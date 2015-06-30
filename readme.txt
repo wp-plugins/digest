@@ -4,7 +4,7 @@ Donate link:       http://required.ch
 Tags:              admin, emails, comments, notification, updates  
 Requires at least: 4.0  
 Tested up to:      4.2  
-Stable tag:        1.0.0  
+Stable tag:        1.1.0  
 License:           GPLv2 or later  
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -56,10 +56,16 @@ Developed by [required+](http://required.ch/).
 
 == Changelog ==
 
+= 1.1.0 =
+* Enhancement: Don’t include already processed items in the email.
+
 = 1.0.0 =
 * First release
 
 == Upgrade Notice ==
+
+= 1.1.0 =
+Already moderated comments won’t be listed in the emails now.
 
 = 1.0.0 =
 First release
